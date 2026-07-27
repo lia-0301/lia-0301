@@ -1,16 +1,15 @@
-# Hi, I'm Julia 👋
+# Hi, I'm Lia 👋
 
 ```javascript
-const player = {
+const julia = {
   class: "Junior Developer 🌱",
-  currentSkills: ["JavaScript", "VBScript", "HTML", "CSS"],
-  nextQuest: ["React", "Node.js", "Express", "SQL"],
-  inventory: ["Git", "GitHub", "VS Code", "Mimo"],
+  currentlyLearning: ["JavaScript", "VBScript", "HTML", "CSS"],
+  nextUp: ["React", "Node.js", "Express", "SQL"],
+  tools: ["Git", "GitHub", "VS Code", "Mimo"],
   hobbies: ["📖 Reading", "🎮 Gaming", "🀄 Anime"]
 };
 ```
-
-> *Learning one commit at a time.*
+*Learning one commit at a time.*
 
 I enjoy building small projects to improve my skills and document my progress as I learn software development.
 
