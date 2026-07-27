@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Julia 👋
 
-<!--
-**lia-0301/lia-0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const player = {
+  class: "Junior Developer 🌱",
+  currentSkills: ["JavaScript", "VBScript", "HTML", "CSS"],
+  nextQuest: ["React", "Node.js", "Express", "SQL"],
+  inventory: ["Git", "GitHub", "VS Code", "Mimo"],
+  hobbies: ["📖 Reading", "🎮 Gaming", "🀄 Anime"]
+};
+```
 
-Here are some ideas to get you started:
+> *Learning one commit at a time.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building small projects to improve my skills and document my progress as I learn software development.
