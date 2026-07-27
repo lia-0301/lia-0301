@@ -1,17 +1,17 @@
-# <img src="preview.webp" width="100" alt="Pixel avatar waving"> Hi, I'm Lia 
+# <img src="preview.webp" width="80" alt="Pixel avatar waving"> Hi, I'm Lia 
 
 ```javascript
 const julia = {
   role: "Junior Developer 🌱",
   currentlyLearning: ["JavaScript", "VBScript", "HTML", "CSS"],
   nextUp: ["React", "Node.js", "Express", "SQL"],
-  tools: ["Git", "GitHub", "VS Code", "Mimo"],
-  hobbies: ["📖 Reading", "🎮 Gaming", "🀄 Anime"]
+  tools: ["Git", "GitHub", "VS Code"],
+  hobbies: ["📖 Reading", "🎮 Gaming", "🎴 Anime"]
 };
 ```
 *Learning one commit at a time.*
 
-I enjoy building small projects to improve my skills and document my progress as I learn software development.
+I'm currently learning software development by building small projects, experimenting with new ideas, and documenting my progress along the way.
 
 Alongside coding, I'm a **Professional Scrum Master™ I (PSM I)** and enjoy learning how to build software in an agile way.  
 
