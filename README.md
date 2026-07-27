@@ -1,8 +1,8 @@
-# Hi, I'm Lia 👋
+# <img src="preview.webp" width="100" alt="Pixel avatar waving"> Hi, I'm Lia 
 
 ```javascript
 const julia = {
-  class: "Junior Developer 🌱",
+  role: "Junior Developer 🌱",
   currentlyLearning: ["JavaScript", "VBScript", "HTML", "CSS"],
   nextUp: ["React", "Node.js", "Express", "SQL"],
   tools: ["Git", "GitHub", "VS Code", "Mimo"],
