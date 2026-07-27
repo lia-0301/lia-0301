@@ -2,7 +2,7 @@
 
 ```javascript
 const julia = {
-  role: "Junior Developer 🌱",
+  role: "Junior Developer",
   currentlyLearning: ["JavaScript", "VBScript", "HTML", "CSS"],
   nextUp: ["React", "Node.js", "Express", "SQL"],
   tools: ["Git", "GitHub", "VS Code"],
