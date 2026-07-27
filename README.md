@@ -1,4 +1,4 @@
-# <img src="preview.webp" width="80" alt="Pixel avatar waving"> Hi, I'm Lia 
+# <img src="pixelme.webp" width="80" alt="Pixel avatar waving"> Hi, I'm Lia 
 
 ```javascript
 const julia = {
@@ -6,7 +6,7 @@ const julia = {
   currentlyLearning: ["JavaScript", "VBScript", "HTML", "CSS"],
   nextUp: ["React", "Node.js", "Express", "SQL"],
   tools: ["Git", "GitHub", "VS Code"],
-  hobbies: ["📖 Reading", "🎮 Gaming", "🎴 Anime"]
+  hobbies: ["Reading", "Gaming", "Anime"]
 };
 ```
 *Learning one commit at a time.*
