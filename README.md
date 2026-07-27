@@ -1,4 +1,4 @@
-# <img src="pixelme.webp" width="80" alt="Pixel avatar waving"> Hi, I'm Lia 
+# <img src="preview.webp" width="80" alt="Pixel avatar waving"> Hi, I'm Lia 
 
 ```javascript
 const julia = {
